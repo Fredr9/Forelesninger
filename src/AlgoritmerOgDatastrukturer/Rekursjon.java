@@ -3,7 +3,7 @@ package AlgoritmerOgDatastrukturer;
 public class Rekursjon {
 
     public static void main(String[] args) {
-        int value = 15;
+        int value = 5;
         int return_value = rekursivFunksjon(value);
         System.out.println("Main " + return_value);
         System.out.println("5! = " + faktorial(5));
